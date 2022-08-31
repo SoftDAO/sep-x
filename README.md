@@ -14,9 +14,9 @@ created: <date created on, in ISO 8601 (yyyy-mm-dd) format>
 requires: <SEP number(s)> (*optional)
 ---
 
-<!--You can leave these HTML comments in your merged SIP and delete the visible duplicate text guides, they will not appear and may be helpful to refer to if you edit it again. This is the suggested template for new SIPs. Note that an SIP number will be assigned by an editor. When opening a pull request to submit your SIP, please use an abbreviated title in the filename, `sip-draft_title_abbrev.md`. The title should be 44 characters or less.-->
+<!--You can leave these HTML comments in your merged SEP and delete the visible duplicate text guides, they will not appear and may be helpful to refer to if you edit it again. This is the suggested template for new SEPs. Note that an SEP number will be assigned by an editor. When opening a pull request to submit your SEP, please use an abbreviated title in the filename, `sep-draft_title_abbrev.md`. The title should be 44 characters or less.-->
 
-This is the suggested template for new SIPs. Note that an SIP number will be assigned by an editor. When opening a pull request to submit your SIP, please use an abbreviated title in the filename, `sip-draft_title_abbrev.md`. The title should be 44 characters or less.
+This is the suggested template for new SEPs. Note that an SEP number will be assigned by an editor. When opening a pull request to submit your SEP, please use an abbreviated title in the filename, `sep-draft_title_abbrev.md`. The title should be 44 characters or less.
 
 ## Simple Summary
 
@@ -26,15 +26,15 @@ This is the suggested template for new SIPs. Note that an SIP number will be ass
 
 ## Abstract
 
-<!--A short (~200 word) description of the proposed change, the abstract should clearly describe the proposed change. This is what *will* be done if the SIP is implemented, not *why* it should be done or *how* it will be done. If the SIP proposes deploying a new contract, write, "we propose to deploy a new contract that will do x".-->
+<!--A short (~200 word) description of the proposed change, the abstract should clearly describe the proposed change. This is what *will* be done if the SEP is implemented, not *why* it should be done or *how* it will be done. If the SEP proposes deploying a new contract, write, "we propose to deploy a new contract that will do x".-->
 
-A short (~200 word) description of the proposed change, the abstract should clearly describe the proposed change. This is what _will_ be done if the SIP is implemented, not _why_ it should be done or _how_ it will be done. If the SIP proposes deploying a new contract, write, "we propose to deploy a new contract that will do x".
+A short (~200 word) description of the proposed change, the abstract should clearly describe the proposed change. This is what _will_ be done if the SEP is implemented, not _why_ it should be done or _how_ it will be done. If the SEP proposes deploying a new contract, write, "we propose to deploy a new contract that will do x".
 
 ## Motivation
 
-<!--This is the problem statement. This is the *why* of the SIP. It should clearly explain *why* the current state of the protocol is inadequate.  It is critical that you explain *why* the change is needed, if the SIP proposes changing how something is calculated, you must address *why* the current calculation is innaccurate or wrong. This is not the place to describe how the SIP will address the issue!-->
+<!--This is the problem statement. This is the *why* of the SEP. It should clearly explain *why* the current state of the protocol is inadequate.  It is critical that you explain *why* the change is needed, if the SEP proposes changing how something is calculated, you must address *why* the current calculation is innaccurate or wrong. This is not the place to describe how the SEP will address the issue!-->
 
-This is the problem statement. This is the _why_ of the SIP. It should clearly explain _why_ the current state of the protocol is inadequate. It is critical that you explain _why_ the change is needed, if the SIP proposes changing how something is calculated, you must address _why_ the current calculation is innaccurate or wrong. This is not the place to describe how the SIP will address the issue!
+This is the problem statement. This is the _why_ of the SEP. It should clearly explain _why_ the current state of the protocol is inadequate. It is critical that you explain _why_ the change is needed, if the SEP proposes changing how something is calculated, you must address _why_ the current calculation is innaccurate or wrong. This is not the place to describe how the SEP will address the issue!
 
 ## Specification
 
@@ -48,9 +48,9 @@ This is the problem statement. This is the _why_ of the SIP. It should clearly e
 
 ### Overview
 
-<!--This is a high level overview of *how* the SIP will solve the problem. The overview should clearly describe how the new feature will be implemented.-->
+<!--This is a high level overview of *how* the SEP will solve the problem. The overview should clearly describe how the new feature will be implemented.-->
 
-This is a high level overview of _how_ the SIP will solve the problem. The overview should clearly describe how the new feature will be implemented.
+This is a high level overview of _how_ the SEP will solve the problem. The overview should clearly describe how the new feature will be implemented.
 
 ### Rationale
 
@@ -66,9 +66,9 @@ The technical specification should outline the public API of the changes propose
 
 ### Test Cases
 
-<!--Test cases for an implementation are mandatory for SIPs but can be included with the implementation..-->
+<!--Test cases for an implementation are mandatory for SEPs but can be included with the implementation..-->
 
-Test cases for an implementation are mandatory for SIPs but can be included with the implementation.
+Test cases for an implementation are mandatory for SEPs but can be included with the implementation.
 
 ### Configurable Values (Via SCCP)
 
